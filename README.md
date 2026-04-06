@@ -59,5 +59,5 @@ https://github.com/tallamharika/CodSoft-Calculator-Task3
 
 ## Project Output
 
-![Calculator Output](output.png)
+![Calculator Output](c1.png)
 
