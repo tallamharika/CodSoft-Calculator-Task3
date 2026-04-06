@@ -20,3 +20,21 @@ catch{
 display.value = "Error";
 }
 }
+
+function square(){
+try{
+display.value = eval(display.value * display.value);
+}
+catch{
+display.value = "Error";
+}
+}
+
+function sqrt(){
+try{
+display.value = Math.sqrt(display.value);
+}
+catch{
+display.value = "Error";
+}
+}
