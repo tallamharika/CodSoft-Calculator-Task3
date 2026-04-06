@@ -60,4 +60,8 @@ https://github.com/tallamharika/CodSoft-Calculator-Task3
 ## Project Output
 
 ![Calculator Output](c1.png)
+### 🚀 Live Link
 
+GitHub Pages Live Site:
+
+[https://tallamharika.github.io/CodSoft-Landing-Page-Task2/](https://tallamharika.github.io/CodSoft-Calculator-Task3/)
