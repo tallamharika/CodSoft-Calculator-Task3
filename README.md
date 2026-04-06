@@ -55,8 +55,7 @@ The project helps in understanding the basics of DOM manipulation, event handlin
 
 ---
 ## Live Demo
-
-https://dhanalakshmi5b1.github.io/CodSoft-Calculator-Task3/
+https://github.com/tallamharika/CodSoft-Calculator-Task3
 
 ## Project Output
 
